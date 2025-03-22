@@ -1,0 +1,228 @@
+Players,Team,Type,Base,Sold,Team_Name
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru
+Yash Dayal,RCB,BOWL,-,5.0,Royal Challengers Bengaluru
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians
+Tilak Varma,MI,AR,-,8.0,Mumbai Indians
+Heinrich Klaasen,SRH,BAT,-,23.0,Sunrisers Hyderabad
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings
+Axar Patel,DC,AR,-,16.5,Delhi Capitals
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals
+Tristan Stubbs,DC,BAT,-,10.0,Delhi Capitals
+Abishek Porel,DC,BAT,-,4.0,Delhi Capitals
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders
+Harshit Rana,KKR,BOWL,-,4.0,Kolkata Knight Riders
+Ramandeep Singh,KKR,AR,-,4.0,Kolkata Knight Riders
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals
+Dhruv Jurel,RR,BAT,-,14.0,Rajasthan Royals
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans
+M Shahrukh Khan,GT,AR,-,4.0,Gujarat Titans
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants
+Ravi Bishnoi,LSG,BOWL,-,11.0,Lucknow Super Giants
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants
+Ayush Badoni,LSG,AR,-,4.0,Lucknow Super Giants
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals
+Aiden Markram,LSG,BAT,2.00,2.0,Lucknow Super Giants
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad
+Rachin Ravindra,CSK,AR,1.50,4.0,Chennai Super Kings
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders
+Rahmanullah Gurbaz,KKR,BAT,2.00,2.0,Kolkata Knight Riders
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru
+Jitesh Sharma,RCB,BAT,1.00,11.0,Royal Challengers Bengaluru
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants
+Prasidh Krishna,GT,BOWL,2.00,9.5,Gujarat Titans
+T Natarajan,DC,BOWL,2.00,10.75,Delhi Capitals
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders
+Noor Ahmad,CSK,BOWL,2.00,10.0,Chennai Super Kings
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad
+Wanindu Hasaranga,RR,BOWL,2.00,5.25,Rajasthan Royals
+Maheesh Theekshana,RR,BOWL,2.00,4.4,Rajasthan Royals
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals
+Angkrish Raghuvanshi,KKR,BAT,0.30,3.0,Kolkata Knight Riders
+Atharva Taide,SRH,BAT,0.30,0.3,Sunrisers Hyderabad
+Nehal Wadhera,PBKS,BAT,0.30,4.2,Punjab Kings
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings
+Naman Dhir,MI,AR,0.30,5.25,Mumbai Indians
+Mahipal Lomror,GT,AR,0.50,1.7,Gujarat Titans
+Sameer Rizvi,DC,AR,0.30,0.95,Delhi Capitals
+Abdul Samad,LSG,AR,0.30,4.2,Lucknow Super Giants
+Vijay Shankar,CSK,AR,0.30,1.2,Chennai Super Kings
+Ashutosh Sharma,DC,AR,0.30,3.8,Delhi Capitals
+Nishant Sindhu,GT,AR,0.30,0.3,Gujarat Titans
+Aryan Juyal,LSG,BAT,0.30,0.3,Lucknow Super Giants
+Kumar Kushagra,GT,BAT,0.30,0.65,Gujarat Titans
+Robin Minz,MI,BAT,0.30,0.65,Mumbai Indians
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans
+Luvnith Sisodia,KKR,BAT,0.30,0.3,Kolkata Knight Riders
+Vishnu Vinod,PBKS,BAT,0.30,0.95,Punjab Kings
+Vaibhav Arora,KKR,BOWL,0.30,1.8,Kolkata Knight Riders
+Rasikh Salam,RCB,BOWL,0.30,6.0,Royal Challengers Bengaluru
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings
+Vijaykumar Vyshak,PBKS,BOWL,0.30,1.8,Punjab Kings
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings
+Mayank Markande,KKR,BOWL,0.30,0.3,Kolkata Knight Riders
+Suyash Sharma,RCB,BOWL,0.30,2.6,Royal Challengers Bengaluru
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians
+Kumar Kartikeya,RR,BOWL,0.30,0.3,Rajasthan Royals
+Manav Suthar,GT,BOWL,0.30,0.3,Gujarat Titans
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans
+Rovman Powell,KKR,BAT,1.50,1.5,Kolkata Knight Riders
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans
+Donovan Ferreira,DC,BAT,0.75,0.75,Delhi Capitals
+Josh Inglis,PBKS,BAT,2.00,2.6,Punjab Kings
+Ryan Rickelton,MI,BAT,1.00,1.0,Mumbai Indians
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians
+Gerald Coetzee,GT,BOWL,1.25,2.4,Gujarat Titans
+Akash Deep,LSG,BOWL,1.00,8.0,Lucknow Super Giants
+Tushar Deshpande,RR,BOWL,1.00,6.5,Rajasthan Royals
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru
+Mukesh Kumar,DC,BOWL,2.00,8.0,Delhi Capitals
+AM Ghazanfar,MI,BOWL,0.75,4.8,Mumbai Indians
+Swastik Chikara,RCB,BAT,0.30,0.3,Royal Challengers Bengaluru
+Shubham Dubey,RR,BAT,0.30,0.8,Rajasthan Royals
+Shaik Rasheed,CSK,BAT,0.30,0.3,Chennai Super Kings
+Himmat Singh,LSG,BAT,0.30,0.3,Lucknow Super Giants
+Anshul Kamboj,CSK,AR,0.30,3.4,Chennai Super Kings
+Arshad Khan,GT,AR,0.30,1.3,Gujarat Titans
+Darshan Nalkande,DC,AR,0.30,0.3,Delhi Capitals
+Anukul Roy,KKR,AR,0.30,0.4,Kolkata Knight Riders
+Swapnil Singh,RCB,AR,0.30,0.5,Royal Challengers Bengaluru
+Vansh Bedi,CSK,BAT,0.30,0.55,Chennai Super Kings
+Kunal Singh Rathore,RR,BAT,0.30,0.3,Rajasthan Royals
+Gurnoor Brar,GT,BOWL,0.30,1.3,Gujarat Titans
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings
+Arjun Tendulkar,MI,BOWL,0.30,0.3,Mumbai Indians
+Zeeshan Ansari,SRH,BOWL,0.30,0.4,Sunrisers Hyderabad
+Manimaran Siddharth,LSG,BOWL,0.30,0.75,Lucknow Super Giants
+Digvesh Singh,LSG,BOWL,0.30,0.3,Lucknow Super Giants
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders
+Sherfane Rutherford,GT,BAT,1.50,2.6,Gujarat Titans
+Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians
+Azmatullah Omarzai,PBKS,AR,1.50,2.4,Punjab Kings
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru
+Spencer Johnson,KKR,BOWL,2.00,2.8,Kolkata Knight Riders
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans
+Nuwan Thushara,RCB,BOWL,0.75,1.6,Royal Challengers Bengaluru
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad
+Sachin Baby,SRH,BAT,0.30,0.3,Sunrisers Hyderabad
+Harnoor Singh,PBKS,BAT,0.30,0.3,Punjab Kings
+C Andre Siddarth,CSK,BAT,0.30,0.3,Chennai Super Kings
+Yudhvir Singh,RR,AR,0.30,0.35,Rajasthan Royals
+Rajvardhan Hangargekar,LSG,AR,0.30,0.3,Lucknow Super Giants
+Arshin Kulkarni,LSG,AR,0.30,0.3,Lucknow Super Giants
+Ashwani Kumar,MI,BOWL,0.30,0.3,Mumbai Indians
+Akash Singh,LSG,BOWL,0.30,0.3,Lucknow Super Giants
+Gurjapneet Singh,CSK,BOWL,0.30,2.2,Chennai Super Kings
+Matthew Breetzke,LSG,BAT,0.75,0.75,Lucknow Super Giants
+Mitchell Santner,MI,AR,2.00,2.0,Mumbai Indians
+Jayant Yadav,GT,AR,0.75,0.75,Gujarat Titans
+Fazalhaq Farooqi,RR,BOWL,2.00,2.0,Rajasthan Royals
+Kwena Maphaka,RR,BOWL,0.75,1.5,Rajasthan Royals
+Kuldeep Sen,PBKS,BOWL,0.75,0.8,Punjab Kings
+Reece Topley,MI,BOWL,0.75,0.75,Mumbai Indians
+Lizaad Williams,MI,BOWL,0.75,0.75,Mumbai Indians
+Priyansh Arya,PBKS,AR,0.30,3.8,Punjab Kings
+Manoj Bhandage,RCB,AR,0.30,0.3,Royal Challengers Bengaluru
+Praveen Dubey,PBKS,AR,0.30,0.3,Punjab Kings
+Ajay Mandal,DC,AR,0.30,0.3,Delhi Capitals
+Vipraj Nigam,DC,AR,0.30,0.5,Delhi Capitals
+Krishnan Shrijith,MI,BAT,0.30,0.3,Mumbai Indians
+Mohit Rathee,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru
+Jacob Bethell,RCB,AR,1.25,2.6,Royal Challengers Bengaluru
+Brydon Carse,SRH,AR,1.00,1.0,Sunrisers Hyderabad
+Aaron Hardie,PBKS,AR,1.25,1.25,Punjab Kings
+Kamindu Mendis,SRH,AR,0.75,0.75,Sunrisers Hyderabad
+Dushmantha Chameera,DC,BOWL,0.75,0.75,Delhi Capitals
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings
+Shamar Joseph,LSG,BOWL,0.75,0.75,Lucknow Super Giants
+Aniket Verma,SRH,BAT,0.30,0.3,Sunrisers Hyderabad
+Raj Bawa,MI,AR,0.30,0.3,Mumbai Indians
+Musheer Khan,PBKS,AR,0.30,0.3,Punjab Kings
+Manvanth Kumar,DC,AR,0.30,0.3,Delhi Capitals
+Suryansh Shedge,PBKS,AR,0.30,0.3,Punjab Kings
+Kulwant Khejroliya,GT,BOWL,0.30,0.3,Gujarat Titans
+Prince Yadav,LSG,BOWL,0.30,0.3,Lucknow Super Giants
+Jamie Overton,CSK,AR,1.50,1.5,Chennai Super Kings
+Xavier Bartlett,PBKS,BOWL,0.75,0.8,Punjab Kings
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru
+Yuvraj Chaudhary,LSG,AR,0.30,0.3,Lucknow Super Giants
+Kamlesh Nagarkoti,CSK,AR,0.30,0.3,Chennai Super Kings
+Abhinandan Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru
+Karim Janat,GT,AR,0.75,0.75,Gujarat Titans
+Pyla Avinash,PBKS,BAT,0.30,0.3,Punjab Kings
+Ramakrishna Ghosh,CSK,AR,0.30,0.3,Chennai Super Kings
+Satyanarayana Raju,MI,BOWL,0.30,0.3,Mumbai Indians
+Bevon Jacobs,MI,BAT,0.30,0.3,Mumbai Indians
+Ashok Sharma,RR,BOWL,0.30,0.3,Rajasthan Royals
+Vaibhav Suryavanshi,RR,BAT,0.30,1.1,Rajasthan Royals
+Eshan Malinga,SRH,BOWL,0.30,1.2,Sunrisers Hyderabad
+Tripurana Vijay,DC,AR,0.30,0.3,Delhi Capitals
+Madhav Tiwari,DC,AR,0.30,0.4,Delhi Capitals
+Vignesh Puthur,MI,AR,0.30,0.3,Mumbai Indians
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals
