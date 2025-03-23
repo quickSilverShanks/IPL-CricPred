@@ -1,888 +1,1860 @@
-Players,Team,Type,Base,Sold,Team_Name,player_of_match,season,pom_s1count,pom_s3count
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2008.0,0.0,0.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2009.0,0.0,0.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2010.0,0.0,0.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2011.0,2.0,2.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2012.0,0.0,2.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2013.0,3.0,5.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2014.0,0.0,3.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2015.0,1.0,4.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2016.0,5.0,6.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2017.0,0.0,6.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2018.0,0.0,5.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2019.0,1.0,1.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2020.0,1.0,2.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2021.0,0.0,2.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2022.0,1.0,2.0
-V Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,V Kohli,2023.0,2.0,3.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2008.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2009.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2010.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2011.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2012.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2013.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2014.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2015.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2016.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2017.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2018.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2019.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2020.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2021.0,0.0,0.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2022.0,1.0,1.0
-RM Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,RM Patidar,2023.0,0.0,1.0
-Yash Dayal,RCB,BOWL,-,5.0,Royal Challengers Bengaluru,,,,
-Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,,,,
-Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,,,,
-Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,,,,
-Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,,,,
-Tilak Varma,MI,AR,-,8.0,Mumbai Indians,,,,
-Heinrich Klaasen,SRH,BAT,-,23.0,Sunrisers Hyderabad,,,,
-Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,,,,
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2008.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2009.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2010.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2011.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2012.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2013.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2014.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2015.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2016.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2017.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2018.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2019.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2020.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2021.0,0.0,0.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2022.0,1.0,1.0
-Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,Abhishek Sharma,2023.0,0.0,1.0
-Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,,,,
-Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,,,,
-Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,,,,
-Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,,,,
-Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,,,,
-Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,,,,
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2008.0,2.0,2.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2009.0,1.0,3.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2010.0,2.0,5.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2011.0,1.0,4.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2012.0,1.0,4.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2013.0,3.0,5.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2014.0,1.0,5.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2015.0,0.0,4.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2016.0,1.0,2.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2017.0,1.0,2.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2018.0,1.0,3.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2019.0,3.0,5.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2020.0,0.0,4.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2021.0,0.0,3.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2022.0,0.0,0.0
-MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,MS Dhoni,2023.0,0.0,0.0
-Axar Patel,DC,AR,-,16.5,Delhi Capitals,,,,
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2008.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2009.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2010.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2011.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2012.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2013.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2014.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2015.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2016.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2017.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2018.0,1.0,1.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2019.0,0.0,1.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2020.0,0.0,1.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2021.0,0.0,0.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2022.0,4.0,4.0
-Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,Kuldeep Yadav,2023.0,0.0,4.0
-Tristan Stubbs,DC,BAT,-,10.0,Delhi Capitals,,,,
-Abishek Porel,DC,BAT,-,4.0,Delhi Capitals,,,,
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2008.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2009.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2010.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2011.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2012.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2013.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2014.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2015.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2016.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2017.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2018.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2019.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2020.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2021.0,0.0,0.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2022.0,1.0,1.0
-RK Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,RK Singh,2023.0,2.0,3.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2008.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2009.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2010.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2011.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2012.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2013.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2014.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2015.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2016.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2017.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2018.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2019.0,0.0,0.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2020.0,1.0,1.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2021.0,1.0,2.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2022.0,0.0,2.0
-CV Varun,KKR,AR,-,12.0,Kolkata Knight Riders,CV Varun,2023.0,2.0,3.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2008.0,0.0,0.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2009.0,0.0,0.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2010.0,0.0,0.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2011.0,0.0,0.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2012.0,3.0,3.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2013.0,1.0,4.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2014.0,0.0,4.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2015.0,0.0,1.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2016.0,0.0,0.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2017.0,2.0,2.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2018.0,3.0,5.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2019.0,0.0,5.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2020.0,0.0,3.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2021.0,3.0,3.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2022.0,0.0,3.0
-SP Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,SP Narine,2023.0,0.0,3.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2008.0,0.0,0.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2009.0,0.0,0.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2010.0,0.0,0.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2011.0,0.0,0.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2012.0,0.0,0.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2013.0,0.0,0.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2014.0,0.0,0.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2015.0,3.0,3.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2016.0,3.0,6.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2017.0,0.0,6.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2018.0,1.0,4.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2019.0,4.0,5.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2020.0,0.0,5.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2021.0,0.0,4.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2022.0,1.0,1.0
-AD Russell,KKR,AR,-,12.0,Kolkata Knight Riders,AD Russell,2023.0,1.0,2.0
-Harshit Rana,KKR,BOWL,-,4.0,Kolkata Knight Riders,,,,
-Ramandeep Singh,KKR,AR,-,4.0,Kolkata Knight Riders,,,,
-Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,,,,
-Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,,,,
-Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,,,,
-Dhruv Jurel,RR,BAT,-,14.0,Rajasthan Royals,,,,
-Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,,,,
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2008.0,0.0,0.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2009.0,0.0,0.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2010.0,0.0,0.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2011.0,0.0,0.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2012.0,0.0,0.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2013.0,0.0,0.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2014.0,3.0,3.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2015.0,0.0,3.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2016.0,0.0,3.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2017.0,2.0,2.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2018.0,0.0,2.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2019.0,0.0,2.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2020.0,1.0,1.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2021.0,0.0,1.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2022.0,0.0,1.0
-Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,Sandeep Sharma,2023.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2008.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2009.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2010.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2011.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2012.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2013.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2014.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2015.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2016.0,0.0,0.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2017.0,2.0,2.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2018.0,4.0,6.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2019.0,1.0,7.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2020.0,1.0,6.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2021.0,0.0,2.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2022.0,1.0,2.0
-Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,Rashid Khan,2023.0,2.0,3.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2008.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2009.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2010.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2011.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2012.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2013.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2014.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2015.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2016.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2017.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2018.0,0.0,0.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2019.0,1.0,1.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2020.0,1.0,2.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2021.0,1.0,3.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2022.0,2.0,4.0
-Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,Shubman Gill,2023.0,4.0,7.0
-Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,,,,
-Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,,,,
-M Shahrukh Khan,GT,AR,-,4.0,Gujarat Titans,,,,
-Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,,,,
-Ravi Bishnoi,LSG,BOWL,-,11.0,Lucknow Super Giants,,,,
-Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,,,,
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2008.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2009.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2010.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2011.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2012.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2013.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2014.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2015.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2016.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2017.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2018.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2019.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2020.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2021.0,0.0,0.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2022.0,1.0,1.0
-Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,Mohsin Khan,2023.0,0.0,1.0
-Ayush Badoni,LSG,AR,-,4.0,Lucknow Super Giants,,,,
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2008.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2009.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2010.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2011.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2012.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2013.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2014.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2015.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2016.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2017.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2018.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2019.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2020.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2021.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2022.0,0.0,0.0
-Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,Shashank Singh,2023.0,0.0,0.0
-Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,,,,
-Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,,,,
-Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,,,,
-Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,,,,
-Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,,,,
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2008.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2009.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2010.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2011.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2012.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2013.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2014.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2015.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2016.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2017.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2018.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2019.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2020.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2021.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2022.0,0.0,0.0
-Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,Arshdeep Singh,2023.0,1.0,1.0
-Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,,,,
-Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,,,,
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2008.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2009.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2010.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2011.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2012.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2013.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2014.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2015.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2016.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2017.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2018.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2019.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2020.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2021.0,0.0,0.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2022.0,1.0,1.0
-LS Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,LS Livingstone,2023.0,0.0,1.0
-David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,,,,
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2008.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2009.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2010.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2011.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2012.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2013.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2014.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2015.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2016.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2017.0,0.0,0.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2018.0,2.0,2.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2019.0,2.0,4.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2020.0,3.0,7.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2021.0,3.0,8.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2022.0,2.0,8.0
-KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,KL Rahul,2023.0,0.0,5.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2008.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2009.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2010.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2011.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2012.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2013.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2014.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2015.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2016.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2017.0,1.0,1.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2018.0,0.0,1.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2019.0,0.0,1.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2020.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2021.0,0.0,0.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2022.0,1.0,1.0
-Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,Mohammed Shami,2023.0,1.0,2.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2008.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2009.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2010.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2011.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2012.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2013.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2014.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2015.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2016.0,0.0,0.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2017.0,1.0,1.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2018.0,0.0,1.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2019.0,0.0,1.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2020.0,1.0,1.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2021.0,0.0,1.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2022.0,0.0,1.0
-Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,Mohammed Siraj,2023.0,1.0,1.0
-Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,,,,
-Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,,,,
-Aiden Markram,LSG,BAT,2.00,2.0,Lucknow Super Giants,,,,
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2008.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2009.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2010.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2011.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2012.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2013.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2014.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2015.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2016.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2017.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2018.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2019.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2020.0,0.0,0.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2021.0,1.0,1.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2022.0,0.0,1.0
-D Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,D Padikkal,2023.0,1.0,2.0
-Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,,,,
-Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,,,,
-VS Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,,,,
-Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,,,,
-Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,,,,
-Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,,,,
-Rachin Ravindra,CSK,AR,1.50,4.0,Chennai Super Kings,,,,
-Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,,,,
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2008.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2009.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2010.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2011.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2012.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2013.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2014.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2015.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2016.0,1.0,1.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2017.0,0.0,1.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2018.0,0.0,1.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2019.0,0.0,0.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2020.0,2.0,2.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2021.0,1.0,3.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2022.0,2.0,5.0
-Q de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,Q de Kock,2023.0,0.0,3.0
-Rahmanullah Gurbaz,KKR,BAT,2.00,2.0,Kolkata Knight Riders,,,,
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2008.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2009.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2010.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2011.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2012.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2013.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2014.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2015.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2016.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2017.0,0.0,0.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2018.0,1.0,1.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2019.0,0.0,1.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2020.0,1.0,2.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2021.0,1.0,2.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2022.0,0.0,2.0
-Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,Ishan Kishan,2023.0,1.0,2.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2008.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2009.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2010.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2011.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2012.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2013.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2014.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2015.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2016.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2017.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2018.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2019.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2020.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2021.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2022.0,0.0,0.0
-PD Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,PD Salt,2023.0,1.0,1.0
-JM Sharma,RCB,BAT,1.00,11.0,Royal Challengers Bengaluru,,,,
-Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,,,,
-Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,,,,
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2008.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2009.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2010.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2011.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2012.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2013.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2014.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2015.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2016.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2017.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2018.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2019.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2020.0,0.0,0.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2021.0,1.0,1.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2022.0,0.0,1.0
-JR Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,JR Hazlewood,2023.0,0.0,1.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2008.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2009.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2010.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2011.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2012.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2013.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2014.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2015.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2016.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2017.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2018.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2019.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2020.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2021.0,0.0,0.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2022.0,2.0,2.0
-Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,Avesh Khan,2023.0,0.0,2.0
-Prasidh Krishna,GT,BOWL,2.00,9.5,Gujarat Titans,,,,
-T Natarajan,DC,BOWL,2.00,10.75,Delhi Capitals,,,,
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2008.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2009.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2010.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2011.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2012.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2013.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2014.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2015.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2016.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2017.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2018.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2019.0,0.0,0.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2020.0,2.0,2.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2021.0,1.0,3.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2022.0,0.0,3.0
-A Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,A Nortje,2023.0,0.0,1.0
-Noor Ahmad,CSK,BOWL,2.00,10.0,Chennai Super Kings,,,,
-Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,,,,
-Wanindu Hasaranga,RR,BOWL,2.00,5.25,Rajasthan Royals,,,,
-Maheesh Theekshana,RR,BOWL,2.00,4.4,Rajasthan Royals,,,,
-Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,,,,
-Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,,,,
-Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,,,,
-A Raghuvanshi,KKR,BAT,0.30,3.0,Kolkata Knight Riders,,,,
-Atharva Taide,SRH,BAT,0.30,0.3,Sunrisers Hyderabad,,,,
-Nehal Wadhera,PBKS,BAT,0.30,4.2,Punjab Kings,,,,
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2008.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2009.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2010.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2011.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2012.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2013.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2014.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2015.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2016.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2017.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2018.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2019.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2020.0,0.0,0.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2021.0,1.0,1.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2022.0,1.0,2.0
-Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,Harpreet Brar,2023.0,0.0,2.0
-Naman Dhir,MI,AR,0.30,5.25,Mumbai Indians,,,,
-Mahipal Lomror,GT,AR,0.50,1.7,Gujarat Titans,,,,
-Sameer Rizvi,DC,AR,0.30,0.95,Delhi Capitals,,,,
-Abdul Samad,LSG,AR,0.30,4.2,Lucknow Super Giants,,,,
-Vijay Shankar,CSK,AR,0.30,1.2,Chennai Super Kings,,,,
-Ashutosh Sharma,DC,AR,0.30,3.8,Delhi Capitals,,,,
-Nishant Sindhu,GT,AR,0.30,0.3,Gujarat Titans,,,,
-Aryan Juyal,LSG,BAT,0.30,0.3,Lucknow Super Giants,,,,
-Kumar Kushagra,GT,BAT,0.30,0.65,Gujarat Titans,,,,
-Robin Minz,MI,BAT,0.30,0.65,Mumbai Indians,,,,
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2008.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2009.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2010.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2011.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2012.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2013.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2014.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2015.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2016.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2017.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2018.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2019.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2020.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2021.0,0.0,0.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2022.0,1.0,1.0
-Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,Anuj Rawat,2023.0,0.0,1.0
-Luvnith Sisodia,KKR,BAT,0.30,0.3,Kolkata Knight Riders,,,,
-Vishnu Vinod,PBKS,BAT,0.30,0.95,Punjab Kings,,,,
-VG Arora,KKR,BOWL,0.30,1.8,Kolkata Knight Riders,,,,
-Rasikh Salam,RCB,BOWL,0.30,6.0,Royal Challengers Bengaluru,,,,
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2008.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2009.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2010.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2011.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2012.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2013.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2014.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2015.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2016.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2017.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2018.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2019.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2020.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2021.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2022.0,0.0,0.0
-Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,Akash Madhwal,2023.0,1.0,1.0
-Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,,,,
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2008.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2009.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2010.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2011.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2012.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2013.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2014.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2015.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2016.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2017.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2018.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2019.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2020.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2021.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2022.0,0.0,0.0
-Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,Simarjeet Singh,2023.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2008.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2009.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2010.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2011.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2012.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2013.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2014.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2015.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2016.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2017.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2018.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2019.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2020.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2021.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2022.0,0.0,0.0
-Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,Yash Thakur,2023.0,0.0,0.0
-Vijaykumar Vyshak,PBKS,BOWL,0.30,1.8,Punjab Kings,,,,
-Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,,,,
-M Markande,KKR,BOWL,0.30,0.3,Kolkata Knight Riders,,,,
-Suyash Sharma,RCB,BOWL,0.30,2.6,Royal Challengers Bengaluru,,,,
-Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,,,,
-Kumar Kartikeya,RR,BOWL,0.30,0.3,Rajasthan Royals,,,,
-Manav Suthar,GT,BOWL,0.30,0.3,Gujarat Titans,,,,
-Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,,,,
-Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,,,,
-R Powell,KKR,BAT,1.50,1.5,Kolkata Knight Riders,,,,
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2008.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2009.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2010.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2011.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2012.0,2.0,2.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2013.0,3.0,5.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2014.0,2.0,7.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2015.0,3.0,8.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2016.0,2.0,7.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2017.0,0.0,5.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2018.0,0.0,2.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2019.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2020.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2021.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2022.0,0.0,0.0
-AM Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,AM Rahane,2023.0,1.0,1.0
-Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,,,,
-Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,,,,
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2008.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2009.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2010.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2011.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2012.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2013.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2014.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2015.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2016.0,2.0,2.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2017.0,2.0,4.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2018.0,0.0,4.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2019.0,0.0,2.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2020.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2021.0,0.0,0.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2022.0,1.0,1.0
-KH Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,KH Pandya,2023.0,1.0,2.0
-Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,,,,
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2008.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2009.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2010.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2011.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2012.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2013.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2014.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2015.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2016.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2017.0,1.0,1.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2018.0,0.0,1.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2019.0,0.0,1.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2020.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2021.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2022.0,0.0,0.0
-Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,Washington Sundar,2023.0,0.0,0.0
-Donovan Ferreira,DC,BAT,0.75,0.75,Delhi Capitals,,,,
-Josh Inglis,PBKS,BAT,2.00,2.6,Punjab Kings,,,,
-Ryan Rickelton,MI,BAT,1.00,1.0,Mumbai Indians,,,,
-Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,,,,
-Gerald Coetzee,GT,BOWL,1.25,2.4,Gujarat Titans,,,,
-Akash Deep,LSG,BOWL,1.00,8.0,Lucknow Super Giants,,,,
-Tushar Deshpande,RR,BOWL,1.00,6.5,Rajasthan Royals,,,,
-Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,,,,
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2008.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2009.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2010.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2011.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2012.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2013.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2014.0,2.0,2.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2015.0,0.0,2.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2016.0,2.0,4.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2017.0,1.0,3.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2018.0,0.0,3.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2019.0,0.0,1.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2020.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2021.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2022.0,0.0,0.0
-B Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,B Kumar,2023.0,0.0,0.0
-Mukesh Kumar,DC,BOWL,2.00,8.0,Delhi Capitals,,,,
-AM Ghazanfar,MI,BOWL,0.75,4.8,Mumbai Indians,,,,
-Swastik Chikara,RCB,BAT,0.30,0.3,Royal Challengers Bengaluru,,,,
-Shubham Dubey,RR,BAT,0.30,0.8,Rajasthan Royals,,,,
-Shaik Rasheed,CSK,BAT,0.30,0.3,Chennai Super Kings,,,,
-Himmat Singh,LSG,BAT,0.30,0.3,Lucknow Super Giants,,,,
-Anshul Kamboj,CSK,AR,0.30,3.4,Chennai Super Kings,,,,
-Arshad Khan,GT,AR,0.30,1.3,Gujarat Titans,,,,
-Darshan Nalkande,DC,AR,0.30,0.3,Delhi Capitals,,,,
-Anukul Roy,KKR,AR,0.30,0.4,Kolkata Knight Riders,,,,
-Swapnil Singh,RCB,AR,0.30,0.5,Royal Challengers Bengaluru,,,,
-Vansh Bedi,CSK,BAT,0.30,0.55,Chennai Super Kings,,,,
-Kunal Singh Rathore,RR,BAT,0.30,0.3,Rajasthan Royals,,,,
-Gurnoor Brar,GT,BOWL,0.30,1.3,Gujarat Titans,,,,
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2008.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2009.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2010.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2011.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2012.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2013.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2014.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2015.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2016.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2017.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2018.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2019.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2020.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2021.0,0.0,0.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2022.0,1.0,1.0
-Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,Mukesh Choudhary,2023.0,0.0,1.0
-Arjun Tendulkar,MI,BOWL,0.30,0.3,Mumbai Indians,,,,
-Zeeshan Ansari,SRH,BOWL,0.30,0.4,Sunrisers Hyderabad,,,,
-Manimaran Siddharth,LSG,BOWL,0.30,0.75,Lucknow Super Giants,,,,
-Digvesh Singh,LSG,BOWL,0.30,0.3,Lucknow Super Giants,,,,
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2008.0,0.0,0.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2009.0,2.0,2.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2010.0,0.0,2.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2011.0,0.0,2.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2012.0,0.0,0.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2013.0,1.0,1.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2014.0,1.0,2.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2015.0,0.0,2.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2016.0,0.0,1.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2017.0,0.0,0.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2018.0,0.0,0.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2019.0,0.0,0.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2020.0,1.0,1.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2021.0,0.0,1.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2022.0,0.0,1.0
-MK Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,MK Pandey,2023.0,0.0,0.0
-Sherfane Rutherford,GT,BAT,1.50,2.6,Gujarat Titans,,,,
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2008.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2009.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2010.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2011.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2012.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2013.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2014.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2015.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2016.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2017.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2018.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2019.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2020.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2021.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2022.0,0.0,0.0
-Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,Shahbaz Ahmed,2023.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2008.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2009.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2010.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2011.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2012.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2013.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2014.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2015.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2016.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2017.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2018.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2019.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2020.0,0.0,0.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2021.0,1.0,1.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2022.0,0.0,1.0
-MM Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,MM Ali,2023.0,1.0,2.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2008.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2009.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2010.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2011.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2012.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2013.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2014.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2015.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2016.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2017.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2018.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2019.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2020.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2021.0,0.0,0.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2022.0,1.0,1.0
-TH David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,TH David,2023.0,0.0,1.0
-Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,,,,
-Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,,,,
-Azmatullah Omarzai,PBKS,AR,1.50,2.4,Punjab Kings,,,,
-Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,,,,
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2008.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2009.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2010.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2011.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2012.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2013.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2014.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2015.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2016.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2017.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2018.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2019.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2020.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2021.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2022.0,0.0,0.0
-R Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,R Shepherd,2023.0,0.0,0.0
-SH Johnson,KKR,BOWL,2.00,2.8,Kolkata Knight Riders,,,,
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2008.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2009.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2010.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2011.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2012.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2013.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2014.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2015.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2016.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2017.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2018.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2019.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2020.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2021.0,0.0,0.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2022.0,2.0,2.0
-Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,Umran Malik,2023.0,0.0,2.0
-Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,,,,
-N Thushara,RCB,BOWL,0.75,1.6,Royal Challengers Bengaluru,,,,
-Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,,,,
-Sachin Baby,SRH,BAT,0.30,0.3,Sunrisers Hyderabad,,,,
-Harnoor Singh,PBKS,BAT,0.30,0.3,Punjab Kings,,,,
-C Andre Siddarth,CSK,BAT,0.30,0.3,Chennai Super Kings,,,,
-Yudhvir Singh,RR,AR,0.30,0.35,Rajasthan Royals,,,,
-Rajvardhan Hangargekar,LSG,AR,0.30,0.3,Lucknow Super Giants,,,,
-Arshin Kulkarni,LSG,AR,0.30,0.3,Lucknow Super Giants,,,,
-Ashwani Kumar,MI,BOWL,0.30,0.3,Mumbai Indians,,,,
-Akash Singh,LSG,BOWL,0.30,0.3,Lucknow Super Giants,,,,
-Gurjapneet Singh,CSK,BOWL,0.30,2.2,Chennai Super Kings,,,,
-Matthew Breetzke,LSG,BAT,0.75,0.75,Lucknow Super Giants,,,,
-Mitchell Santner,MI,AR,2.00,2.0,Mumbai Indians,,,,
-Jayant Yadav,GT,AR,0.75,0.75,Gujarat Titans,,,,
-Fazalhaq Farooqi,RR,BOWL,2.00,2.0,Rajasthan Royals,,,,
-Kwena Maphaka,RR,BOWL,0.75,1.5,Rajasthan Royals,,,,
-Kuldeep Sen,PBKS,BOWL,0.75,0.8,Punjab Kings,,,,
-Reece Topley,MI,BOWL,0.75,0.75,Mumbai Indians,,,,
-Lizaad Williams,MI,BOWL,0.75,0.75,Mumbai Indians,,,,
-Priyansh Arya,PBKS,AR,0.30,3.8,Punjab Kings,,,,
-Manoj Bhandage,RCB,AR,0.30,0.3,Royal Challengers Bengaluru,,,,
-Praveen Dubey,PBKS,AR,0.30,0.3,Punjab Kings,,,,
-Ajay Mandal,DC,AR,0.30,0.3,Delhi Capitals,,,,
-Vipraj Nigam,DC,AR,0.30,0.5,Delhi Capitals,,,,
-Krishnan Shrijith,MI,BAT,0.30,0.3,Mumbai Indians,,,,
-Mohit Rathee,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,,,,
-Jacob Bethell,RCB,AR,1.25,2.6,Royal Challengers Bengaluru,,,,
-Brydon Carse,SRH,AR,1.00,1.0,Sunrisers Hyderabad,,,,
-Aaron Hardie,PBKS,AR,1.25,1.25,Punjab Kings,,,,
-Kamindu Mendis,SRH,AR,0.75,0.75,Sunrisers Hyderabad,,,,
-Dushmantha Chameera,DC,BOWL,0.75,0.75,Delhi Capitals,,,,
-Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,,,,
-Shamar Joseph,LSG,BOWL,0.75,0.75,Lucknow Super Giants,,,,
-Aniket Verma,SRH,BAT,0.30,0.3,Sunrisers Hyderabad,,,,
-Raj Bawa,MI,AR,0.30,0.3,Mumbai Indians,,,,
-Musheer Khan,PBKS,AR,0.30,0.3,Punjab Kings,,,,
-Manvanth Kumar,DC,AR,0.30,0.3,Delhi Capitals,,,,
-Suryansh Shedge,PBKS,AR,0.30,0.3,Punjab Kings,,,,
-Kulwant Khejroliya,GT,BOWL,0.30,0.3,Gujarat Titans,,,,
-Prince Yadav,LSG,BOWL,0.30,0.3,Lucknow Super Giants,,,,
-Jamie Overton,CSK,AR,1.50,1.5,Chennai Super Kings,,,,
-Xavier Bartlett,PBKS,BOWL,0.75,0.8,Punjab Kings,,,,
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2008.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2009.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2010.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2011.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2012.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2013.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2014.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2015.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2016.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2017.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2018.0,1.0,1.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2019.0,0.0,1.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2020.0,0.0,1.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2021.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2022.0,0.0,0.0
-L Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,L Ngidi,2023.0,0.0,0.0
-Yuvraj Chaudhary,LSG,AR,0.30,0.3,Lucknow Super Giants,,,,
-Kamlesh Nagarkoti,CSK,AR,0.30,0.3,Chennai Super Kings,,,,
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2008.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2009.0,1.0,1.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2010.0,0.0,1.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2011.0,0.0,1.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2012.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2013.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2014.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2015.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2016.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2017.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2018.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2019.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2020.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2021.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2022.0,0.0,0.0
-A Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,A Singh,2023.0,0.0,0.0
-Karim Janat,GT,AR,0.75,0.75,Gujarat Titans,,,,
-Pyla Avinash,PBKS,BAT,0.30,0.3,Punjab Kings,,,,
-Ramakrishna Ghosh,CSK,AR,0.30,0.3,Chennai Super Kings,,,,
-Satyanarayana Raju,MI,BOWL,0.30,0.3,Mumbai Indians,,,,
-Bevon Jacobs,MI,BAT,0.30,0.3,Mumbai Indians,,,,
-Ashok Sharma,RR,BOWL,0.30,0.3,Rajasthan Royals,,,,
-Vaibhav Suryavanshi,RR,BAT,0.30,1.1,Rajasthan Royals,,,,
-Eshan Malinga,SRH,BOWL,0.30,1.2,Sunrisers Hyderabad,,,,
-Tripurana Vijay,DC,AR,0.30,0.3,Delhi Capitals,,,,
-Madhav Tiwari,DC,AR,0.30,0.4,Delhi Capitals,,,,
-Vignesh Puthur,MI,AR,0.30,0.3,Mumbai Indians,,,,
-Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,,,,
+Players,Team,Type,Base,Sold,Team_Name,season,pom_s1count,pom_s3count
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2011.0,2.0,2.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2012.0,0.0,2.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2013.0,3.0,5.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2014.0,0.0,3.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2015.0,1.0,4.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2016.0,5.0,6.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2017.0,0.0,6.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2018.0,0.0,5.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2019.0,1.0,1.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2020.0,1.0,2.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2021.0,0.0,2.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2022.0,1.0,2.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2023.0,2.0,3.0
+Virat Kohli,RCB,BAT,-,21.0,Royal Challengers Bengaluru,2024.0,2.0,5.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2018.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2019.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2022.0,1.0,1.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2023.0,0.0,1.0
+Rajat Patidar,RCB,BAT,-,11.0,Royal Challengers Bengaluru,2024.0,1.0,2.0
+Yash Dayal,RCB,BOWL,-,5.0,Royal Challengers Bengaluru,,,
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2008.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2009.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2010.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2011.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2012.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2013.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2014.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2015.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2016.0,0.0,0.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2017.0,1.0,1.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2018.0,1.0,2.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2019.0,3.0,5.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2020.0,1.0,5.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2021.0,0.0,4.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2022.0,2.0,3.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2023.0,0.0,2.0
+Jasprit Bumrah,MI,BOWL,-,18.0,Mumbai Indians,2024.0,2.0,4.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2008.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2009.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2010.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2011.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2012.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2013.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2014.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2015.0,0.0,0.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2016.0,1.0,1.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2017.0,0.0,1.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2018.0,1.0,2.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2019.0,1.0,2.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2020.0,2.0,4.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2021.0,0.0,3.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2022.0,1.0,3.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2023.0,2.0,3.0
+Suryakumar Yadav,MI,BAT,-,16.35,Mumbai Indians,2024.0,1.0,4.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2008.0,0.0,0.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2009.0,0.0,0.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2010.0,0.0,0.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2011.0,0.0,0.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2012.0,0.0,0.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2013.0,0.0,0.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2014.0,0.0,0.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2015.0,2.0,2.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2016.0,0.0,2.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2017.0,0.0,2.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2018.0,1.0,1.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2019.0,3.0,4.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2020.0,0.0,4.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2021.0,0.0,3.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2022.0,2.0,2.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2023.0,0.0,2.0
+Hardik Pandya,MI,AR,-,16.35,Mumbai Indians,2024.0,0.0,2.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2008.0,0.0,0.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2009.0,2.0,2.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2010.0,1.0,3.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2011.0,0.0,3.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2012.0,2.0,3.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2013.0,2.0,4.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2014.0,1.0,5.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2015.0,1.0,4.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2016.0,4.0,6.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2017.0,1.0,6.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2018.0,2.0,7.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2019.0,1.0,4.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2020.0,1.0,4.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2021.0,0.0,2.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2022.0,0.0,1.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2023.0,1.0,1.0
+Rohit Sharma,MI,BAT,-,16.3,Mumbai Indians,2024.0,0.0,1.0
+Tilak Varma,MI,AR,-,8.0,Mumbai Indians,,,
+Heinrich Klaasen,SRH,BAT,-,23.0,Sunrisers Hyderabad,,,
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2008.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2009.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2010.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2011.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2012.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2013.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2014.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2015.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2016.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2017.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2018.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2019.0,0.0,0.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2020.0,1.0,1.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2021.0,0.0,1.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2022.0,1.0,2.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2023.0,0.0,1.0
+Pat Cummins,SRH,AR,-,18.0,Sunrisers Hyderabad,2024.0,0.0,1.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2008.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2009.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2010.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2011.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2012.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2013.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2014.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2015.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2016.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2017.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2018.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2019.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2020.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2021.0,0.0,0.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2022.0,1.0,1.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2023.0,0.0,1.0
+Abhishek Sharma,SRH,AR,-,14.0,Sunrisers Hyderabad,2024.0,3.0,4.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2008.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2009.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2010.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2011.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2012.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2013.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2014.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2015.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2016.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2017.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2018.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2019.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2020.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2021.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2022.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2023.0,0.0,0.0
+Travis Head,SRH,BAT,-,14.0,Sunrisers Hyderabad,2024.0,3.0,3.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2008.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2009.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2010.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2011.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2012.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2013.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2014.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2015.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2016.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2017.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2018.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2019.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2020.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2021.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2022.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2023.0,0.0,0.0
+Nitish Kumar Reddy,SRH,AR,-,6.0,Sunrisers Hyderabad,2024.0,1.0,1.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2008.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2009.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2010.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2011.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2012.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2013.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2014.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2015.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2016.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2017.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2018.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2019.0,0.0,0.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2020.0,3.0,3.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2021.0,4.0,7.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2022.0,1.0,8.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2023.0,2.0,7.0
+Ruturaj Gaikwad,CSK,BAT,-,18.0,Chennai Super Kings,2024.0,1.0,4.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2008.0,0.0,0.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2009.0,0.0,0.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2010.0,0.0,0.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2011.0,0.0,0.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2012.0,1.0,1.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2013.0,2.0,3.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2014.0,3.0,6.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2015.0,1.0,6.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2016.0,0.0,4.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2017.0,0.0,1.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2018.0,1.0,1.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2019.0,0.0,1.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2020.0,1.0,2.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2021.0,2.0,3.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2022.0,0.0,3.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2023.0,3.0,5.0
+Ravindra Jadeja,CSK,AR,-,18.0,Chennai Super Kings,2024.0,2.0,5.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2008.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2009.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2010.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2011.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2012.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2013.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2014.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2015.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2016.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2017.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2018.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2019.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2020.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2021.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2022.0,0.0,0.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2023.0,1.0,1.0
+Matheesha Pathirana,CSK,BOWL,-,13.0,Chennai Super Kings,2024.0,1.0,2.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2008.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2009.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2010.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2011.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2012.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2013.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2014.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2015.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2016.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2017.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2018.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2019.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2020.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2021.0,0.0,0.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2022.0,1.0,1.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2023.0,0.0,1.0
+Shivam Dube,CSK,AR,-,12.0,Chennai Super Kings,2024.0,1.0,2.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2008.0,2.0,2.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2009.0,1.0,3.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2010.0,2.0,5.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2011.0,1.0,4.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2012.0,1.0,4.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2013.0,3.0,5.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2014.0,1.0,5.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2015.0,0.0,4.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2016.0,1.0,2.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2017.0,1.0,2.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2018.0,1.0,3.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2019.0,3.0,5.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2020.0,0.0,4.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2021.0,0.0,3.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2022.0,0.0,0.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2023.0,0.0,0.0
+MS Dhoni,CSK,BAT,-,4.0,Chennai Super Kings,2024.0,0.0,0.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2008.0,0.0,0.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2009.0,0.0,0.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2010.0,0.0,0.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2011.0,0.0,0.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2012.0,0.0,0.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2013.0,0.0,0.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2014.0,1.0,1.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2015.0,1.0,2.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2016.0,1.0,3.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2017.0,1.0,3.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2018.0,0.0,2.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2019.0,0.0,1.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2020.0,1.0,1.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2021.0,2.0,3.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2022.0,0.0,3.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2023.0,1.0,3.0
+Axar Patel,DC,AR,-,16.5,Delhi Capitals,2024.0,0.0,1.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2008.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2009.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2010.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2011.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2012.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2013.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2014.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2015.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2016.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2017.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2018.0,1.0,1.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2019.0,0.0,1.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2020.0,0.0,1.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2021.0,0.0,0.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2022.0,4.0,4.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2023.0,0.0,4.0
+Kuldeep Yadav,DC,BOWL,-,13.25,Delhi Capitals,2024.0,2.0,6.0
+Tristan Stubbs,DC,BAT,-,10.0,Delhi Capitals,,,
+Abishek Porel,DC,BAT,-,4.0,Delhi Capitals,,,
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2008.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2009.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2010.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2011.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2012.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2013.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2014.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2015.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2016.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2017.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2018.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2019.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2020.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2021.0,0.0,0.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2022.0,1.0,1.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2023.0,2.0,3.0
+Rinku Singh,KKR,BAT,-,13.0,Kolkata Knight Riders,2024.0,0.0,3.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2008.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2009.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2010.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2011.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2012.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2013.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2014.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2015.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2016.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2017.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2018.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2019.0,0.0,0.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2020.0,1.0,1.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2021.0,1.0,2.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2022.0,0.0,2.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2023.0,2.0,3.0
+Varun Chakravarthy,KKR,AR,-,12.0,Kolkata Knight Riders,2024.0,2.0,4.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2008.0,0.0,0.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2009.0,0.0,0.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2010.0,0.0,0.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2011.0,0.0,0.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2012.0,3.0,3.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2013.0,1.0,4.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2014.0,0.0,4.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2015.0,0.0,1.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2016.0,0.0,0.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2017.0,2.0,2.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2018.0,3.0,5.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2019.0,0.0,5.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2020.0,0.0,3.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2021.0,3.0,3.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2022.0,0.0,3.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2023.0,0.0,3.0
+Sunil Narine,KKR,BOWL,-,12.0,Kolkata Knight Riders,2024.0,3.0,3.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2008.0,0.0,0.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2009.0,0.0,0.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2010.0,0.0,0.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2011.0,0.0,0.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2012.0,0.0,0.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2013.0,0.0,0.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2014.0,0.0,0.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2015.0,3.0,3.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2016.0,3.0,6.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2017.0,0.0,6.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2018.0,1.0,4.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2019.0,4.0,5.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2020.0,0.0,5.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2021.0,0.0,4.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2022.0,1.0,1.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2023.0,1.0,2.0
+Andre Russell,KKR,AR,-,12.0,Kolkata Knight Riders,2024.0,2.0,4.0
+Harshit Rana,KKR,BOWL,-,4.0,Kolkata Knight Riders,,,
+Ramandeep Singh,KKR,AR,-,4.0,Kolkata Knight Riders,,,
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2008.0,0.0,0.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2009.0,0.0,0.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2010.0,0.0,0.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2011.0,0.0,0.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2012.0,0.0,0.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2013.0,1.0,1.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2014.0,0.0,1.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2015.0,0.0,1.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2016.0,1.0,1.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2017.0,1.0,2.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2018.0,2.0,4.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2019.0,0.0,3.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2020.0,2.0,4.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2021.0,1.0,3.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2022.0,1.0,4.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2023.0,0.0,2.0
+Sanju Samson,RR,BAT,-,18.0,Rajasthan Royals,2024.0,2.0,3.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2008.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2009.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2010.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2011.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2012.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2013.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2014.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2015.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2016.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2017.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2018.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2019.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2020.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2021.0,0.0,0.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2022.0,1.0,1.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2023.0,4.0,5.0
+Yashasvi Jaiswal,RR,AR,-,18.0,Rajasthan Royals,2024.0,0.0,5.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2008.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2009.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2010.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2011.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2012.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2013.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2014.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2015.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2016.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2017.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2018.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2019.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2020.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2021.0,0.0,0.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2022.0,1.0,1.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2023.0,0.0,1.0
+Riyan Parag,RR,AR,-,14.0,Rajasthan Royals,2024.0,1.0,2.0
+Dhruv Jurel,RR,BAT,-,14.0,Rajasthan Royals,,,
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2008.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2009.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2010.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2011.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2012.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2013.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2014.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2015.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2016.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2017.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2018.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2019.0,1.0,1.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2020.0,0.0,1.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2021.0,0.0,1.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2022.0,0.0,0.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2023.0,1.0,1.0
+Shimron Hetmyer,RR,BAT,-,11.0,Rajasthan Royals,2024.0,1.0,2.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2008.0,0.0,0.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2009.0,0.0,0.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2010.0,0.0,0.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2011.0,0.0,0.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2012.0,0.0,0.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2013.0,0.0,0.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2014.0,3.0,3.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2015.0,0.0,3.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2016.0,0.0,3.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2017.0,2.0,2.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2018.0,0.0,2.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2019.0,0.0,2.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2020.0,1.0,1.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2021.0,0.0,1.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2022.0,0.0,1.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2023.0,0.0,0.0
+Sandeep Sharma,RR,BOWL,-,4.0,Rajasthan Royals,2024.0,1.0,1.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2008.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2009.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2010.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2011.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2012.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2013.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2014.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2015.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2016.0,0.0,0.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2017.0,2.0,2.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2018.0,4.0,6.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2019.0,1.0,7.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2020.0,1.0,6.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2021.0,0.0,2.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2022.0,1.0,2.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2023.0,2.0,3.0
+Rashid Khan,GT,BOWL,-,18.0,Gujarat Titans,2024.0,1.0,4.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2008.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2009.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2010.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2011.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2012.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2013.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2014.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2015.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2016.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2017.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2018.0,0.0,0.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2019.0,1.0,1.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2020.0,1.0,2.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2021.0,1.0,3.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2022.0,2.0,4.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2023.0,4.0,7.0
+Shubman Gill,GT,BAT,-,16.5,Gujarat Titans,2024.0,0.0,6.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2008.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2009.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2010.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2011.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2012.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2013.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2014.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2015.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2016.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2017.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2018.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2019.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2020.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2021.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2022.0,0.0,0.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2023.0,1.0,1.0
+Sai Sudharsan,GT,AR,-,8.5,Gujarat Titans,2024.0,1.0,2.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2008.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2009.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2010.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2011.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2012.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2013.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2014.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2015.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2016.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2017.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2018.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2019.0,0.0,0.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2020.0,1.0,1.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2021.0,0.0,1.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2022.0,1.0,2.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2023.0,0.0,1.0
+Rahul Tewatia,GT,AR,-,4.0,Gujarat Titans,2024.0,0.0,1.0
+M Shahrukh Khan,GT,AR,-,4.0,Gujarat Titans,,,
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2008.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2009.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2010.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2011.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2012.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2013.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2014.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2015.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2016.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2017.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2018.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2019.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2020.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2021.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2022.0,0.0,0.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2023.0,2.0,2.0
+Nicholas Pooran,LSG,BAT,-,21.0,Lucknow Super Giants,2024.0,1.0,3.0
+Ravi Bishnoi,LSG,BOWL,-,11.0,Lucknow Super Giants,,,
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2008.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2009.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2010.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2011.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2012.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2013.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2014.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2015.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2016.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2017.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2018.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2019.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2020.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2021.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2022.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2023.0,0.0,0.0
+Mayank Yadav,LSG,BOWL,-,11.0,Lucknow Super Giants,2024.0,2.0,2.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2008.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2009.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2010.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2011.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2012.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2013.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2014.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2015.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2016.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2017.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2018.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2019.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2020.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2021.0,0.0,0.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2022.0,1.0,1.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2023.0,0.0,1.0
+Mohsin Khan,LSG,BOWL,-,4.0,Lucknow Super Giants,2024.0,0.0,1.0
+Ayush Badoni,LSG,AR,-,4.0,Lucknow Super Giants,,,
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2008.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2009.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2010.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2011.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2012.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2013.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2014.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2015.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2016.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2017.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2018.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2019.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2020.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2021.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2022.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2023.0,0.0,0.0
+Shashank Singh,PBKS,AR,-,5.5,Punjab Kings,2024.0,1.0,1.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2008.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2009.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2010.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2011.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2012.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2013.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2014.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2015.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2016.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2017.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2018.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2019.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2020.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2021.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2022.0,0.0,0.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2023.0,1.0,1.0
+Prabhsimran Singh,PBKS,BAT,-,4.0,Punjab Kings,2024.0,0.0,1.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2008.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2009.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2010.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2011.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2012.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2013.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2014.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2015.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2016.0,0.0,0.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2017.0,1.0,1.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2018.0,3.0,4.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2019.0,1.0,5.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2020.0,1.0,5.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2021.0,1.0,3.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2022.0,3.0,5.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2023.0,1.0,5.0
+Jos Buttler,GT,BAT,2.00,15.75,Gujarat Titans,2024.0,2.0,6.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2008.0,0.0,0.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2009.0,0.0,0.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2010.0,0.0,0.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2011.0,0.0,0.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2012.0,0.0,0.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2013.0,0.0,0.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2014.0,0.0,0.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2015.0,1.0,1.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2016.0,0.0,1.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2017.0,1.0,2.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2018.0,1.0,2.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2019.0,1.0,3.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2020.0,1.0,3.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2021.0,1.0,3.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2022.0,0.0,2.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2023.0,0.0,1.0
+Shreyas Iyer,PBKS,BAT,2.00,26.75,Punjab Kings,2024.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2008.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2009.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2010.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2011.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2012.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2013.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2014.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2015.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2016.0,1.0,1.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2017.0,1.0,2.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2018.0,1.0,3.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2019.0,3.0,5.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2020.0,0.0,4.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2021.0,0.0,3.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2022.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2023.0,0.0,0.0
+Rishabh Pant,LSG,BAT,2.00,27.0,Lucknow Super Giants,2024.0,2.0,2.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2008.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2009.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2010.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2011.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2012.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2013.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2014.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2015.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2016.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2017.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2018.0,0.0,0.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2019.0,1.0,1.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2020.0,0.0,1.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2021.0,0.0,1.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2022.0,1.0,1.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2023.0,0.0,1.0
+Kagiso Rabada,GT,BOWL,2.00,10.75,Gujarat Titans,2024.0,0.0,1.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2008.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2009.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2010.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2011.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2012.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2013.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2014.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2015.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2016.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2017.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2018.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2019.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2020.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2021.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2022.0,0.0,0.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2023.0,1.0,1.0
+Arshdeep Singh,PBKS,BOWL,2.00,18.0,Punjab Kings,2024.0,0.0,1.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2008.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2009.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2010.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2011.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2012.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2013.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2014.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2015.0,1.0,1.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2016.0,0.0,1.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2017.0,0.0,1.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2018.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2019.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2020.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2021.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2022.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2023.0,0.0,0.0
+Mitchell Starc,DC,BOWL,2.00,11.75,Delhi Capitals,2024.0,2.0,2.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2008.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2009.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2010.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2011.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2012.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2013.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2014.0,1.0,1.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2015.0,0.0,1.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2016.0,0.0,1.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2017.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2018.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2019.0,0.0,0.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2020.0,2.0,2.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2021.0,1.0,3.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2022.0,2.0,5.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2023.0,0.0,3.0
+Yuzvendra Chahal,PBKS,BOWL,2.00,18.0,Punjab Kings,2024.0,0.0,2.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2018.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2019.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2022.0,1.0,1.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2023.0,0.0,1.0
+Liam Livingstone,RCB,AR,2.00,8.75,Royal Challengers Bengaluru,2024.0,0.0,1.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2008.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2009.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2010.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2011.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2012.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2013.0,3.0,3.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2014.0,0.0,3.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2015.0,0.0,3.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2016.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2017.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2018.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2019.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2020.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2021.0,0.0,0.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2022.0,2.0,2.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2023.0,0.0,2.0
+David Miller,LSG,BAT,1.50,7.5,Lucknow Super Giants,2024.0,0.0,2.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2008.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2009.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2010.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2011.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2012.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2013.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2014.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2015.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2016.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2017.0,0.0,0.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2018.0,2.0,2.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2019.0,2.0,4.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2020.0,3.0,7.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2021.0,3.0,8.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2022.0,2.0,8.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2023.0,0.0,5.0
+KL Rahul,DC,BAT,2.00,14.0,Delhi Capitals,2024.0,1.0,3.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2008.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2009.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2010.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2011.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2012.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2013.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2014.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2015.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2016.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2017.0,1.0,1.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2018.0,0.0,1.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2019.0,0.0,1.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2020.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2021.0,0.0,0.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2022.0,1.0,1.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2023.0,1.0,2.0
+Mohammed Shami,SRH,BOWL,2.00,10.0,Sunrisers Hyderabad,2024.0,0.0,2.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2008.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2009.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2010.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2011.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2012.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2013.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2014.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2015.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2016.0,0.0,0.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2017.0,1.0,1.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2018.0,0.0,1.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2019.0,0.0,1.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2020.0,1.0,1.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2021.0,0.0,1.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2022.0,0.0,1.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2023.0,1.0,1.0
+Mohammed Siraj,GT,BOWL,2.00,12.25,Gujarat Titans,2024.0,1.0,2.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2008.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2009.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2010.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2011.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2012.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2013.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2014.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2015.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2016.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2017.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2018.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2019.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2020.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2021.0,0.0,0.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2022.0,1.0,1.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2023.0,3.0,4.0
+Devon Conway,CSK,BAT,2.00,6.25,Chennai Super Kings,2024.0,0.0,4.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2008.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2009.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2010.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2011.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2012.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2013.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2014.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2015.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2016.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2017.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2018.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2019.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2020.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2021.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2022.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2023.0,0.0,0.0
+Jake Fraser-McGurk,DC,BAT,2.00,9.0,Delhi Capitals,2024.0,1.0,1.0
+Aiden Markram,LSG,BAT,2.00,2.0,Lucknow Super Giants,,,
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2018.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2019.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2021.0,1.0,1.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2022.0,0.0,1.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2023.0,1.0,2.0
+Devdutt Padikkal,RCB,BAT,2.00,2.0,Royal Challengers Bengaluru,2024.0,0.0,1.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2008.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2009.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2010.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2011.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2012.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2013.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2014.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2015.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2016.0,0.0,0.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2017.0,1.0,1.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2018.0,0.0,1.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2019.0,0.0,1.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2020.0,1.0,1.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2021.0,0.0,1.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2022.0,2.0,3.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2023.0,0.0,2.0
+Rahul Tripathi,CSK,BAT,0.75,3.4,Chennai Super Kings,2024.0,0.0,2.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2008.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2009.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2010.0,1.0,1.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2011.0,0.0,1.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2012.0,0.0,1.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2013.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2014.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2015.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2016.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2017.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2018.0,0.0,0.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2019.0,1.0,1.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2020.0,1.0,2.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2021.0,0.0,2.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2022.0,1.0,2.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2023.0,1.0,2.0
+Ravichandran Ashwin,CSK,AR,2.00,9.75,Chennai Super Kings,2024.0,1.0,3.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2008.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2009.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2010.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2011.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2012.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2013.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2014.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2015.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2016.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2017.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2018.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2019.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2020.0,0.0,0.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2021.0,1.0,1.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2022.0,0.0,1.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2023.0,1.0,2.0
+Venkatesh Iyer,KKR,AR,2.00,23.75,Kolkata Knight Riders,2024.0,1.0,2.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2008.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2009.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2010.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2011.0,1.0,1.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2012.0,0.0,1.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2013.0,0.0,1.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2014.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2015.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2016.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2017.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2018.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2019.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2020.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2021.0,0.0,0.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2022.0,1.0,1.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2023.0,1.0,2.0
+Mitchell Marsh,LSG,AR,2.00,3.4,Lucknow Super Giants,2024.0,0.0,2.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2008.0,0.0,0.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2009.0,0.0,0.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2010.0,0.0,0.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2011.0,0.0,0.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2012.0,0.0,0.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2013.0,0.0,0.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2014.0,4.0,4.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2015.0,0.0,4.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2016.0,0.0,4.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2017.0,1.0,1.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2018.0,0.0,1.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2019.0,0.0,1.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2020.0,0.0,0.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2021.0,3.0,3.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2022.0,0.0,3.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2023.0,1.0,4.0
+Glenn Maxwell,PBKS,AR,2.00,4.2,Punjab Kings,2024.0,0.0,1.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2008.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2009.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2010.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2011.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2012.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2013.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2014.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2015.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2016.0,0.0,0.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2017.0,1.0,1.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2018.0,1.0,2.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2019.0,0.0,2.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2020.0,0.0,1.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2021.0,1.0,1.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2022.0,1.0,2.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2023.0,0.0,2.0
+Harshal Patel,SRH,AR,2.00,8.0,Sunrisers Hyderabad,2024.0,0.0,1.0
+Rachin Ravindra,CSK,AR,1.50,4.0,Chennai Super Kings,,,
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2008.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2009.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2010.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2011.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2012.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2013.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2014.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2015.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2016.0,2.0,2.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2017.0,0.0,2.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2018.0,0.0,2.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2019.0,0.0,0.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2020.0,2.0,2.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2021.0,0.0,2.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2022.0,0.0,2.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2023.0,3.0,3.0
+Marcus Stoinis,PBKS,AR,2.00,11.0,Punjab Kings,2024.0,2.0,5.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2008.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2009.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2010.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2011.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2012.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2013.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2014.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2015.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2016.0,1.0,1.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2017.0,0.0,1.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2018.0,0.0,1.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2019.0,0.0,0.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2020.0,2.0,2.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2021.0,1.0,3.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2022.0,2.0,5.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2023.0,0.0,3.0
+Quinton de Kock,KKR,BAT,2.00,3.6,Kolkata Knight Riders,2024.0,0.0,2.0
+Rahmanullah Gurbaz,KKR,BAT,2.00,2.0,Kolkata Knight Riders,,,
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2008.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2009.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2010.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2011.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2012.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2013.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2014.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2015.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2016.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2017.0,0.0,0.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2018.0,1.0,1.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2019.0,0.0,1.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2020.0,1.0,2.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2021.0,1.0,2.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2022.0,0.0,2.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2023.0,1.0,2.0
+Ishan Kishan,SRH,BAT,2.00,11.25,Sunrisers Hyderabad,2024.0,0.0,1.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2018.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2019.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2022.0,0.0,0.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2023.0,1.0,1.0
+Phil Salt,RCB,BAT,2.00,11.5,Royal Challengers Bengaluru,2024.0,1.0,2.0
+Jitesh Sharma,RCB,BAT,1.00,11.0,Royal Challengers Bengaluru,,,
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2008.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2009.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2010.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2011.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2012.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2013.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2014.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2015.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2016.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2017.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2018.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2019.0,1.0,1.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2020.0,0.0,1.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2021.0,0.0,1.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2022.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2023.0,0.0,0.0
+Khaleel Ahmed,CSK,BOWL,2.00,4.8,Chennai Super Kings,2024.0,1.0,1.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2008.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2009.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2010.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2011.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2012.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2013.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2014.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2015.0,1.0,1.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2016.0,0.0,1.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2017.0,0.0,1.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2018.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2019.0,0.0,0.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2020.0,3.0,3.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2021.0,0.0,3.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2022.0,1.0,4.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2023.0,0.0,1.0
+Trent Boult,MI,BOWL,2.00,12.5,Mumbai Indians,2024.0,1.0,2.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2018.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2019.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2021.0,1.0,1.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2022.0,0.0,1.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2023.0,0.0,1.0
+Josh Hazlewood,RCB,BOWL,2.00,12.5,Royal Challengers Bengaluru,2024.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2008.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2009.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2010.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2011.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2012.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2013.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2014.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2015.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2016.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2017.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2018.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2019.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2020.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2021.0,0.0,0.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2022.0,2.0,2.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2023.0,0.0,2.0
+Avesh Khan,LSG,BOWL,2.00,9.75,Lucknow Super Giants,2024.0,0.0,2.0
+Prasidh Krishna,GT,BOWL,2.00,9.5,Gujarat Titans,,,
+T Natarajan,DC,BOWL,2.00,10.75,Delhi Capitals,,,
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2008.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2009.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2010.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2011.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2012.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2013.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2014.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2015.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2016.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2017.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2018.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2019.0,0.0,0.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2020.0,2.0,2.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2021.0,1.0,3.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2022.0,0.0,3.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2023.0,0.0,1.0
+Anrich Nortje,KKR,BOWL,2.00,6.5,Kolkata Knight Riders,2024.0,0.0,0.0
+Noor Ahmad,CSK,BOWL,2.00,10.0,Chennai Super Kings,,,
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2008.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2009.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2010.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2011.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2012.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2013.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2014.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2015.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2016.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2017.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2018.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2019.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2020.0,0.0,0.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2021.0,1.0,1.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2022.0,0.0,1.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2023.0,0.0,1.0
+Rahul Chahar,SRH,BOWL,1.00,3.2,Sunrisers Hyderabad,2024.0,0.0,0.0
+Wanindu Hasaranga,RR,BOWL,2.00,5.25,Rajasthan Royals,,,
+Maheesh Theekshana,RR,BOWL,2.00,4.4,Rajasthan Royals,,,
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2008.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2009.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2010.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2011.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2012.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2013.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2014.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2015.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2016.0,1.0,1.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2017.0,0.0,1.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2018.0,0.0,1.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2019.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2020.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2021.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2022.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2023.0,0.0,0.0
+Adam Zampa,SRH,BOWL,2.00,2.4,Sunrisers Hyderabad,2024.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2008.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2009.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2010.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2011.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2012.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2013.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2014.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2015.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2016.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2017.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2018.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2019.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2020.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2021.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2022.0,0.0,0.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2023.0,1.0,1.0
+Abhinav Manohar,SRH,BAT,0.30,3.2,Sunrisers Hyderabad,2024.0,0.0,1.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2008.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2009.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2010.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2011.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2012.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2013.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2014.0,1.0,1.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2015.0,0.0,1.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2016.0,1.0,2.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2017.0,1.0,2.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2018.0,0.0,2.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2019.0,0.0,1.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2020.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2021.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2022.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2023.0,0.0,0.0
+Karun Nair,DC,BAT,0.30,0.5,Delhi Capitals,2024.0,0.0,0.0
+Angkrish Raghuvanshi,KKR,BAT,0.30,3.0,Kolkata Knight Riders,,,
+Atharva Taide,SRH,BAT,0.30,0.3,Sunrisers Hyderabad,,,
+Nehal Wadhera,PBKS,BAT,0.30,4.2,Punjab Kings,,,
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2008.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2009.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2010.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2011.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2012.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2013.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2014.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2015.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2016.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2017.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2018.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2019.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2020.0,0.0,0.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2021.0,1.0,1.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2022.0,1.0,2.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2023.0,0.0,2.0
+Harpreet Brar,PBKS,AR,0.30,1.5,Punjab Kings,2024.0,1.0,2.0
+Naman Dhir,MI,AR,0.30,5.25,Mumbai Indians,,,
+Mahipal Lomror,GT,AR,0.50,1.7,Gujarat Titans,,,
+Sameer Rizvi,DC,AR,0.30,0.95,Delhi Capitals,,,
+Abdul Samad,LSG,AR,0.30,4.2,Lucknow Super Giants,,,
+Vijay Shankar,CSK,AR,0.30,1.2,Chennai Super Kings,,,
+Ashutosh Sharma,DC,AR,0.30,3.8,Delhi Capitals,,,
+Nishant Sindhu,GT,AR,0.30,0.3,Gujarat Titans,,,
+Aryan Juyal,LSG,BAT,0.30,0.3,Lucknow Super Giants,,,
+Kumar Kushagra,GT,BAT,0.30,0.65,Gujarat Titans,,,
+Robin Minz,MI,BAT,0.30,0.65,Mumbai Indians,,,
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2008.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2009.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2010.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2011.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2012.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2013.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2014.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2015.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2016.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2017.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2018.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2019.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2020.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2021.0,0.0,0.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2022.0,1.0,1.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2023.0,0.0,1.0
+Anuj Rawat,GT,BAT,0.30,0.3,Gujarat Titans,2024.0,0.0,1.0
+Luvnith Sisodia,KKR,BAT,0.30,0.3,Kolkata Knight Riders,,,
+Vishnu Vinod,PBKS,BAT,0.30,0.95,Punjab Kings,,,
+Vaibhav Arora,KKR,BOWL,0.30,1.8,Kolkata Knight Riders,,,
+Rasikh Salam,RCB,BOWL,0.30,6.0,Royal Challengers Bengaluru,,,
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2008.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2009.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2010.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2011.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2012.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2013.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2014.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2015.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2016.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2017.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2018.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2019.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2020.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2021.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2022.0,0.0,0.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2023.0,1.0,1.0
+Akash Madhwal,RR,BOWL,0.30,1.2,Rajasthan Royals,2024.0,0.0,1.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2008.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2009.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2010.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2011.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2012.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2013.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2014.0,1.0,1.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2015.0,0.0,1.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2016.0,0.0,1.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2017.0,1.0,1.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2018.0,0.0,1.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2019.0,0.0,1.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2020.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2021.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2022.0,0.0,0.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2023.0,2.0,2.0
+Mohit Sharma,DC,BOWL,0.50,2.2,Delhi Capitals,2024.0,1.0,3.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2008.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2009.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2010.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2011.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2012.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2013.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2014.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2015.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2016.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2017.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2018.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2019.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2020.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2021.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2022.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2023.0,0.0,0.0
+Simarjeet Singh,SRH,BOWL,0.30,1.5,Sunrisers Hyderabad,2024.0,1.0,1.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2008.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2009.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2010.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2011.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2012.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2013.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2014.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2015.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2016.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2017.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2018.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2019.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2020.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2021.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2022.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2023.0,0.0,0.0
+Yash Thakur,PBKS,BOWL,0.40,1.6,Punjab Kings,2024.0,1.0,1.0
+Vijaykumar Vyshak,PBKS,BOWL,0.30,1.8,Punjab Kings,,,
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2008.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2009.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2010.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2011.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2012.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2013.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2014.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2015.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2016.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2017.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2018.0,1.0,1.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2019.0,1.0,2.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2020.0,0.0,2.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2021.0,0.0,1.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2022.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2023.0,0.0,0.0
+Shreyas Gopal,CSK,BOWL,0.30,0.3,Chennai Super Kings,2024.0,0.0,0.0
+Mayank Markande,KKR,BOWL,0.30,0.3,Kolkata Knight Riders,,,
+Suyash Sharma,RCB,BOWL,0.30,2.6,Royal Challengers Bengaluru,,,
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2008.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2009.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2010.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2011.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2012.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2013.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2014.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2015.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2016.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2017.0,1.0,1.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2018.0,0.0,1.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2019.0,0.0,1.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2020.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2021.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2022.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2023.0,0.0,0.0
+Karn Sharma,MI,BOWL,0.50,0.5,Mumbai Indians,2024.0,0.0,0.0
+Kumar Kartikeya,RR,BOWL,0.30,0.3,Rajasthan Royals,,,
+Manav Suthar,GT,BOWL,0.30,0.3,Gujarat Titans,,,
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2008.0,0.0,0.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2009.0,0.0,0.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2010.0,0.0,0.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2011.0,0.0,0.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2012.0,2.0,2.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2013.0,0.0,2.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2014.0,0.0,2.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2015.0,0.0,0.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2016.0,0.0,0.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2017.0,0.0,0.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2018.0,1.0,1.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2019.0,1.0,2.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2020.0,0.0,2.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2021.0,2.0,3.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2022.0,1.0,3.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2023.0,2.0,5.0
+Faf du Plessis,DC,BAT,2.00,2.0,Delhi Capitals,2024.0,1.0,4.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2008.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2009.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2010.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2011.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2012.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2013.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2014.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2015.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2016.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2017.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2018.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2019.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2020.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2021.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2022.0,0.0,0.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2023.0,1.0,1.0
+Glenn Phillips,GT,BAT,2.00,2.0,Gujarat Titans,2024.0,0.0,1.0
+Rovman Powell,KKR,BAT,1.50,1.5,Kolkata Knight Riders,,,
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2008.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2009.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2010.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2011.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2012.0,2.0,2.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2013.0,3.0,5.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2014.0,2.0,7.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2015.0,3.0,8.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2016.0,2.0,7.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2017.0,0.0,5.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2018.0,0.0,2.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2019.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2020.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2021.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2022.0,0.0,0.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2023.0,1.0,1.0
+Ajinkya Rahane,KKR,BAT,1.50,1.5,Kolkata Knight Riders,2024.0,0.0,1.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2008.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2009.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2010.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2011.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2012.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2013.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2014.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2015.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2016.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2017.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2018.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2019.0,1.0,1.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2020.0,0.0,1.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2021.0,0.0,1.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2022.0,0.0,0.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2023.0,1.0,1.0
+Sam Curran,CSK,AR,2.00,2.4,Chennai Super Kings,2024.0,2.0,3.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2008.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2009.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2010.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2011.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2012.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2013.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2014.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2015.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2016.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2017.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2018.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2019.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2020.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2021.0,0.0,0.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2022.0,1.0,1.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2023.0,0.0,1.0
+Marco Jansen,PBKS,AR,1.25,7.0,Punjab Kings,2024.0,0.0,1.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2016.0,2.0,2.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2017.0,2.0,4.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2018.0,0.0,4.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2019.0,0.0,2.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2022.0,1.0,1.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2023.0,1.0,2.0
+Krunal Pandya,RCB,AR,2.00,5.75,Royal Challengers Bengaluru,2024.0,0.0,2.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2008.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2009.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2010.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2011.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2012.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2013.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2014.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2015.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2016.0,0.0,0.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2017.0,2.0,2.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2018.0,2.0,4.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2019.0,0.0,4.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2020.0,0.0,2.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2021.0,1.0,1.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2022.0,0.0,1.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2023.0,0.0,1.0
+Nitish Rana,RR,AR,1.50,4.2,Rajasthan Royals,2024.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2008.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2009.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2010.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2011.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2012.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2013.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2014.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2015.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2016.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2017.0,1.0,1.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2018.0,0.0,1.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2019.0,0.0,1.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2020.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2021.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2022.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2023.0,0.0,0.0
+Washington Sundar,GT,AR,2.00,3.2,Gujarat Titans,2024.0,0.0,0.0
+Donovan Ferreira,DC,BAT,0.75,0.75,Delhi Capitals,,,
+Josh Inglis,PBKS,BAT,2.00,2.6,Punjab Kings,,,
+Ryan Rickelton,MI,BAT,1.00,1.0,Mumbai Indians,,,
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2008.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2009.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2010.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2011.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2012.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2013.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2014.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2015.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2016.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2017.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2018.0,0.0,0.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2019.0,1.0,1.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2020.0,0.0,1.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2021.0,1.0,2.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2022.0,0.0,1.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2023.0,0.0,1.0
+Deepak Chahar,MI,BOWL,2.00,9.25,Mumbai Indians,2024.0,0.0,0.0
+Gerald Coetzee,GT,BOWL,1.25,2.4,Gujarat Titans,,,
+Akash Deep,LSG,BOWL,1.00,8.0,Lucknow Super Giants,,,
+Tushar Deshpande,RR,BOWL,1.00,6.5,Rajasthan Royals,,,
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2008.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2009.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2010.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2011.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2012.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2013.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2014.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2015.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2016.0,0.0,0.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2017.0,1.0,1.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2018.0,0.0,1.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2019.0,0.0,1.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2020.0,1.0,1.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2021.0,0.0,1.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2022.0,1.0,2.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2023.0,0.0,1.0
+Lockie Ferguson,PBKS,BOWL,2.00,2.0,Punjab Kings,2024.0,0.0,1.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2014.0,2.0,2.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2015.0,0.0,2.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2016.0,2.0,4.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2017.0,1.0,3.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2018.0,0.0,3.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2019.0,0.0,1.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2022.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2023.0,0.0,0.0
+Bhuvneshwar Kumar,RCB,BOWL,2.00,10.75,Royal Challengers Bengaluru,2024.0,1.0,1.0
+Mukesh Kumar,DC,BOWL,2.00,8.0,Delhi Capitals,,,
+AM Ghazanfar,MI,BOWL,0.75,4.8,Mumbai Indians,,,
+Swastik Chikara,RCB,BAT,0.30,0.3,Royal Challengers Bengaluru,,,
+Shubham Dubey,RR,BAT,0.30,0.8,Rajasthan Royals,,,
+Shaik Rasheed,CSK,BAT,0.30,0.3,Chennai Super Kings,,,
+Himmat Singh,LSG,BAT,0.30,0.3,Lucknow Super Giants,,,
+Anshul Kamboj,CSK,AR,0.30,3.4,Chennai Super Kings,,,
+Arshad Khan,GT,AR,0.30,1.3,Gujarat Titans,,,
+Darshan Nalkande,DC,AR,0.30,0.3,Delhi Capitals,,,
+Anukul Roy,KKR,AR,0.30,0.4,Kolkata Knight Riders,,,
+Swapnil Singh,RCB,AR,0.30,0.5,Royal Challengers Bengaluru,,,
+Vansh Bedi,CSK,BAT,0.30,0.55,Chennai Super Kings,,,
+Kunal Singh Rathore,RR,BAT,0.30,0.3,Rajasthan Royals,,,
+Gurnoor Brar,GT,BOWL,0.30,1.3,Gujarat Titans,,,
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2008.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2009.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2010.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2011.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2012.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2013.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2014.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2015.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2016.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2017.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2018.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2019.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2020.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2021.0,0.0,0.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2022.0,1.0,1.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2023.0,0.0,1.0
+Mukesh Choudhary,CSK,BOWL,0.30,0.3,Chennai Super Kings,2024.0,0.0,1.0
+Arjun Tendulkar,MI,BOWL,0.30,0.3,Mumbai Indians,,,
+Zeeshan Ansari,SRH,BOWL,0.30,0.4,Sunrisers Hyderabad,,,
+Manimaran Siddharth,LSG,BOWL,0.30,0.75,Lucknow Super Giants,,,
+Digvesh Singh,LSG,BOWL,0.30,0.3,Lucknow Super Giants,,,
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2008.0,0.0,0.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2009.0,2.0,2.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2010.0,0.0,2.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2011.0,0.0,2.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2012.0,0.0,0.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2013.0,1.0,1.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2014.0,1.0,2.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2015.0,0.0,2.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2016.0,0.0,1.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2017.0,0.0,0.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2018.0,0.0,0.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2019.0,0.0,0.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2020.0,1.0,1.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2021.0,0.0,1.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2022.0,0.0,1.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2023.0,0.0,0.0
+Manish Pandey,KKR,BAT,0.75,0.75,Kolkata Knight Riders,2024.0,0.0,0.0
+Sherfane Rutherford,GT,BAT,1.50,2.6,Gujarat Titans,,,
+Shahbaz Ahmed,LSG,AR,1.00,2.4,Lucknow Super Giants,,,
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2008.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2009.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2010.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2011.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2012.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2013.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2014.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2015.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2016.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2017.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2018.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2019.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2020.0,0.0,0.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2021.0,1.0,1.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2022.0,0.0,1.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2023.0,1.0,2.0
+Moeen Ali,KKR,AR,2.00,2.0,Kolkata Knight Riders,2024.0,0.0,1.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2018.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2019.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2022.0,1.0,1.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2023.0,0.0,1.0
+Tim David,RCB,AR,2.00,3.0,Royal Challengers Bengaluru,2024.0,0.0,1.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2008.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2009.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2010.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2011.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2012.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2013.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2014.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2015.0,1.0,1.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2016.0,0.0,1.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2017.0,0.0,1.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2018.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2019.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2020.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2021.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2022.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2023.0,0.0,0.0
+Deepak Hooda,CSK,AR,0.75,1.7,Chennai Super Kings,2024.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2008.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2009.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2010.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2011.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2012.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2013.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2014.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2015.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2016.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2017.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2018.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2019.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2020.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2021.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2022.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2023.0,0.0,0.0
+Will Jacks,MI,AR,2.00,5.25,Mumbai Indians,2024.0,1.0,1.0
+Azmatullah Omarzai,PBKS,AR,1.50,2.4,Punjab Kings,,,
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2008.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2009.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2010.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2011.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2012.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2013.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2014.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2015.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2016.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2017.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2018.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2019.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2020.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2021.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2022.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2023.0,0.0,0.0
+Sai Kishore,GT,AR,0.75,2.0,Gujarat Titans,2024.0,1.0,1.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2018.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2019.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2020.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2022.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2023.0,0.0,0.0
+Romario Shepherd,RCB,AR,1.50,1.5,Royal Challengers Bengaluru,2024.0,1.0,1.0
+Spencer Johnson,KKR,BOWL,2.00,2.8,Kolkata Knight Riders,,,
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2008.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2009.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2010.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2011.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2012.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2013.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2014.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2015.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2016.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2017.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2018.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2019.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2020.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2021.0,0.0,0.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2022.0,2.0,2.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2023.0,0.0,2.0
+Umran Malik,KKR,BOWL,0.75,0.75,Kolkata Knight Riders,2024.0,0.0,2.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2008.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2009.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2010.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2011.0,1.0,1.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2012.0,0.0,1.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2013.0,1.0,2.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2014.0,0.0,1.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2015.0,0.0,1.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2016.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2017.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2018.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2019.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2020.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2021.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2022.0,0.0,0.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2023.0,1.0,1.0
+Ishant Sharma,GT,BOWL,0.75,0.75,Gujarat Titans,2024.0,1.0,2.0
+Nuwan Thushara,RCB,BOWL,0.75,1.6,Royal Challengers Bengaluru,,,
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2008.0,0.0,0.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2009.0,0.0,0.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2010.0,1.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2011.0,0.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2012.0,0.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2013.0,1.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2014.0,0.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2015.0,0.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2016.0,0.0,0.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2017.0,2.0,2.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2018.0,0.0,2.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2019.0,1.0,3.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2020.0,0.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2021.0,1.0,2.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2022.0,0.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2023.0,0.0,1.0
+Jaydev Unadkat,SRH,BOWL,1.00,1.0,Sunrisers Hyderabad,2024.0,0.0,0.0
+Sachin Baby,SRH,BAT,0.30,0.3,Sunrisers Hyderabad,,,
+Harnoor Singh,PBKS,BAT,0.30,0.3,Punjab Kings,,,
+C Andre Siddarth,CSK,BAT,0.30,0.3,Chennai Super Kings,,,
+Yudhvir Singh,RR,AR,0.30,0.35,Rajasthan Royals,,,
+Rajvardhan Hangargekar,LSG,AR,0.30,0.3,Lucknow Super Giants,,,
+Arshin Kulkarni,LSG,AR,0.30,0.3,Lucknow Super Giants,,,
+Ashwani Kumar,MI,BOWL,0.30,0.3,Mumbai Indians,,,
+Akash Singh,LSG,BOWL,0.30,0.3,Lucknow Super Giants,,,
+Gurjapneet Singh,CSK,BOWL,0.30,2.2,Chennai Super Kings,,,
+Matthew Breetzke,LSG,BAT,0.75,0.75,Lucknow Super Giants,,,
+Mitchell Santner,MI,AR,2.00,2.0,Mumbai Indians,,,
+Jayant Yadav,GT,AR,0.75,0.75,Gujarat Titans,,,
+Fazalhaq Farooqi,RR,BOWL,2.00,2.0,Rajasthan Royals,,,
+Kwena Maphaka,RR,BOWL,0.75,1.5,Rajasthan Royals,,,
+Kuldeep Sen,PBKS,BOWL,0.75,0.8,Punjab Kings,,,
+Reece Topley,MI,BOWL,0.75,0.75,Mumbai Indians,,,
+Lizaad Williams,MI,BOWL,0.75,0.75,Mumbai Indians,,,
+Priyansh Arya,PBKS,AR,0.30,3.8,Punjab Kings,,,
+Manoj Bhandage,RCB,AR,0.30,0.3,Royal Challengers Bengaluru,,,
+Praveen Dubey,PBKS,AR,0.30,0.3,Punjab Kings,,,
+Ajay Mandal,DC,AR,0.30,0.3,Delhi Capitals,,,
+Vipraj Nigam,DC,AR,0.30,0.5,Delhi Capitals,,,
+Krishnan Shrijith,MI,BAT,0.30,0.3,Mumbai Indians,,,
+Mohit Rathee,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,,,
+Jacob Bethell,RCB,AR,1.25,2.6,Royal Challengers Bengaluru,,,
+Brydon Carse,SRH,AR,1.00,1.0,Sunrisers Hyderabad,,,
+Aaron Hardie,PBKS,AR,1.25,1.25,Punjab Kings,,,
+Kamindu Mendis,SRH,AR,0.75,0.75,Sunrisers Hyderabad,,,
+Dushmantha Chameera,DC,BOWL,0.75,0.75,Delhi Capitals,,,
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2008.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2009.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2010.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2011.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2012.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2013.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2014.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2015.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2016.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2017.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2018.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2019.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2020.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2021.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2022.0,0.0,0.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2023.0,1.0,1.0
+Nathan Ellis,CSK,BOWL,1.25,2.0,Chennai Super Kings,2024.0,0.0,1.0
+Shamar Joseph,LSG,BOWL,0.75,0.75,Lucknow Super Giants,,,
+Aniket Verma,SRH,BAT,0.30,0.3,Sunrisers Hyderabad,,,
+Raj Bawa,MI,AR,0.30,0.3,Mumbai Indians,,,
+Musheer Khan,PBKS,AR,0.30,0.3,Punjab Kings,,,
+Manvanth Kumar,DC,AR,0.30,0.3,Delhi Capitals,,,
+Suryansh Shedge,PBKS,AR,0.30,0.3,Punjab Kings,,,
+Kulwant Khejroliya,GT,BOWL,0.30,0.3,Gujarat Titans,,,
+Prince Yadav,LSG,BOWL,0.30,0.3,Lucknow Super Giants,,,
+Jamie Overton,CSK,AR,1.50,1.5,Chennai Super Kings,,,
+Xavier Bartlett,PBKS,BOWL,0.75,0.8,Punjab Kings,,,
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2008.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2009.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2010.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2011.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2012.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2013.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2014.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2015.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2016.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2017.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2018.0,1.0,1.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2019.0,0.0,1.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2020.0,0.0,1.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2021.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2022.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2023.0,0.0,0.0
+Lungi Ngidi,RCB,BOWL,1.00,1.0,Royal Challengers Bengaluru,2024.0,0.0,0.0
+Yuvraj Chaudhary,LSG,AR,0.30,0.3,Lucknow Super Giants,,,
+Kamlesh Nagarkoti,CSK,AR,0.30,0.3,Chennai Super Kings,,,
+Abhinandan Singh,RCB,BOWL,0.30,0.3,Royal Challengers Bengaluru,,,
+Karim Janat,GT,AR,0.75,0.75,Gujarat Titans,,,
+Pyla Avinash,PBKS,BAT,0.30,0.3,Punjab Kings,,,
+Ramakrishna Ghosh,CSK,AR,0.30,0.3,Chennai Super Kings,,,
+Satyanarayana Raju,MI,BOWL,0.30,0.3,Mumbai Indians,,,
+Bevon Jacobs,MI,BAT,0.30,0.3,Mumbai Indians,,,
+Ashok Sharma,RR,BOWL,0.30,0.3,Rajasthan Royals,,,
+Vaibhav Suryavanshi,RR,BAT,0.30,1.1,Rajasthan Royals,,,
+Eshan Malinga,SRH,BOWL,0.30,1.2,Sunrisers Hyderabad,,,
+Tripurana Vijay,DC,AR,0.30,0.3,Delhi Capitals,,,
+Madhav Tiwari,DC,AR,0.30,0.4,Delhi Capitals,,,
+Vignesh Puthur,MI,AR,0.30,0.3,Mumbai Indians,,,
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2008.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2009.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2010.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2011.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2012.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2013.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2014.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2015.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2016.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2017.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2018.0,1.0,1.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2019.0,0.0,1.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2020.0,0.0,1.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2021.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2022.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2023.0,0.0,0.0
+Jofra Archer,RR,BOWL,2.00,12.5,Rajasthan Royals,2024.0,0.0,0.0

@@ -8,12 +8,12 @@ The prediction attempts to answer below queries(as motivated from a specific com
 
 | Query | Points | Misc. |
 | --- | --- | --- |
-| Winner of match | 20 | Streak: N*5 points |
-| Winner of toss | 10 | |
+| Winning Team | 20 | Streak: N*5 points |
+| Winner of Toss | 5 | |
 | Player of the match | 10 | |
 | Target Runs | 10 | * |
 | Win Margin | 10 | * |
-| Total Boundaries (4s and 6s) | 10 | * |
+| Total Boundaries (4s and 6s) | 10 | Buckets: <20, 20-30, 30-40, >40 |
 | Player # 1 | 2x | * |
 | Player # 2 | 1.5x | * |
 | Player # 3 | 1x | * |
