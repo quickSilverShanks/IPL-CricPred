@@ -11,9 +11,9 @@ The prediction attempts to answer below queries(as motivated from a specific com
 | Winning Team | 20 | Streak: N*5 points |
 | Winner of Toss | 5 | |
 | Player of the match | 20 | |
-| Target Runs | 10 | Buckets: <100, 100-139, 140-169, 170-200, >200 |
+| Target Runs | 10 | Buckets: <140, 140-169, 170-200, 201-220, >220 |
 | Winning Margin | 20 | * |
-| Total Boundaries (4s and 6s) | 10 | Buckets: <20, 20-30, 30-40, >40 |
+| Total Boundaries (4s and 6s) | 10 | Buckets: <20, 20-30, 31-40, 41-50, >50 |
 | Player # 1 | 2x | * |
 | Player # 2 | 1.5x | * |
 | Player # 3 | 1x | * |
